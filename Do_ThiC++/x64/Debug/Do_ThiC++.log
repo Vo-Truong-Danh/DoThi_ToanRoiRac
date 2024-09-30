@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\BaiTapSinhVien\Cau Truc Roi Rac\SKT-T1_Chuongtrinh\Do_ThiC++\Do_ThiC++\Source.cpp(615,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\BaiTapSinhVien\Cau Truc Roi Rac\SKT-T1_Chuongtrinh\Do_ThiC++\Do_ThiC++\Source.cpp(642,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\BaiTapSinhVien\Cau Truc Roi Rac\SKT-T1_Chuongtrinh\Do_ThiC++\Do_ThiC++\Source.cpp(822,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Do_ThiC++.vcxproj -> E:\BaiTapSinhVien\Cau Truc Roi Rac\SKT-T1_Chuongtrinh\Do_ThiC++\x64\Debug\Do_ThiC++.exe
